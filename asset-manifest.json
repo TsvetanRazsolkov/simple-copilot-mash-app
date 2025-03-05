@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%3Crepository-name%3E/static/css/main.5ad46044.chunk.css",
-    "main.js": "/%3Crepository-name%3E/static/js/main.9b297faa.chunk.js",
-    "main.js.map": "/%3Crepository-name%3E/static/js/main.9b297faa.chunk.js.map",
-    "runtime-main.js": "/%3Crepository-name%3E/static/js/runtime-main.97e97760.js",
-    "runtime-main.js.map": "/%3Crepository-name%3E/static/js/runtime-main.97e97760.js.map",
-    "static/css/2.3fb43b94.chunk.css": "/%3Crepository-name%3E/static/css/2.3fb43b94.chunk.css",
-    "static/js/2.51b449c7.chunk.js": "/%3Crepository-name%3E/static/js/2.51b449c7.chunk.js",
-    "static/js/2.51b449c7.chunk.js.map": "/%3Crepository-name%3E/static/js/2.51b449c7.chunk.js.map",
-    "index.html": "/%3Crepository-name%3E/index.html",
-    "static/css/2.3fb43b94.chunk.css.map": "/%3Crepository-name%3E/static/css/2.3fb43b94.chunk.css.map",
-    "static/css/main.5ad46044.chunk.css.map": "/%3Crepository-name%3E/static/css/main.5ad46044.chunk.css.map",
-    "static/js/2.51b449c7.chunk.js.LICENSE.txt": "/%3Crepository-name%3E/static/js/2.51b449c7.chunk.js.LICENSE.txt"
+    "main.css": "/simple-copilot-mash-app/static/css/main.5ad46044.chunk.css",
+    "main.js": "/simple-copilot-mash-app/static/js/main.9b297faa.chunk.js",
+    "main.js.map": "/simple-copilot-mash-app/static/js/main.9b297faa.chunk.js.map",
+    "runtime-main.js": "/simple-copilot-mash-app/static/js/runtime-main.b8dd6069.js",
+    "runtime-main.js.map": "/simple-copilot-mash-app/static/js/runtime-main.b8dd6069.js.map",
+    "static/css/2.3fb43b94.chunk.css": "/simple-copilot-mash-app/static/css/2.3fb43b94.chunk.css",
+    "static/js/2.51b449c7.chunk.js": "/simple-copilot-mash-app/static/js/2.51b449c7.chunk.js",
+    "static/js/2.51b449c7.chunk.js.map": "/simple-copilot-mash-app/static/js/2.51b449c7.chunk.js.map",
+    "index.html": "/simple-copilot-mash-app/index.html",
+    "static/css/2.3fb43b94.chunk.css.map": "/simple-copilot-mash-app/static/css/2.3fb43b94.chunk.css.map",
+    "static/css/main.5ad46044.chunk.css.map": "/simple-copilot-mash-app/static/css/main.5ad46044.chunk.css.map",
+    "static/js/2.51b449c7.chunk.js.LICENSE.txt": "/simple-copilot-mash-app/static/js/2.51b449c7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.97e97760.js",
+    "static/js/runtime-main.b8dd6069.js",
     "static/css/2.3fb43b94.chunk.css",
     "static/js/2.51b449c7.chunk.js",
     "static/css/main.5ad46044.chunk.css",
