@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/simple-copilot-mash-app/static/css/main.e1e870e1.chunk.css",
-    "main.js": "/simple-copilot-mash-app/static/js/main.22f938a4.chunk.js",
-    "main.js.map": "/simple-copilot-mash-app/static/js/main.22f938a4.chunk.js.map",
+    "main.js": "/simple-copilot-mash-app/static/js/main.b9ae180c.chunk.js",
+    "main.js.map": "/simple-copilot-mash-app/static/js/main.b9ae180c.chunk.js.map",
     "runtime-main.js": "/simple-copilot-mash-app/static/js/runtime-main.b8dd6069.js",
     "runtime-main.js.map": "/simple-copilot-mash-app/static/js/runtime-main.b8dd6069.js.map",
     "static/css/2.66c572fa.chunk.css": "/simple-copilot-mash-app/static/css/2.66c572fa.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.66c572fa.chunk.css",
     "static/js/2.9cefe5c3.chunk.js",
     "static/css/main.e1e870e1.chunk.css",
-    "static/js/main.22f938a4.chunk.js"
+    "static/js/main.b9ae180c.chunk.js"
   ]
 }
