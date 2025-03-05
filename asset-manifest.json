@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simple-copilot-mash-app/static/css/main.a87d2d88.chunk.css",
+    "main.css": "/simple-copilot-mash-app/static/css/main.aa3d1ef2.chunk.css",
     "main.js": "/simple-copilot-mash-app/static/js/main.9147a8bf.chunk.js",
     "main.js.map": "/simple-copilot-mash-app/static/js/main.9147a8bf.chunk.js.map",
     "runtime-main.js": "/simple-copilot-mash-app/static/js/runtime-main.b8dd6069.js",
@@ -10,14 +10,14 @@
     "static/js/2.9cefe5c3.chunk.js.map": "/simple-copilot-mash-app/static/js/2.9cefe5c3.chunk.js.map",
     "index.html": "/simple-copilot-mash-app/index.html",
     "static/css/2.66c572fa.chunk.css.map": "/simple-copilot-mash-app/static/css/2.66c572fa.chunk.css.map",
-    "static/css/main.a87d2d88.chunk.css.map": "/simple-copilot-mash-app/static/css/main.a87d2d88.chunk.css.map",
+    "static/css/main.aa3d1ef2.chunk.css.map": "/simple-copilot-mash-app/static/css/main.aa3d1ef2.chunk.css.map",
     "static/js/2.9cefe5c3.chunk.js.LICENSE.txt": "/simple-copilot-mash-app/static/js/2.9cefe5c3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b8dd6069.js",
     "static/css/2.66c572fa.chunk.css",
     "static/js/2.9cefe5c3.chunk.js",
-    "static/css/main.a87d2d88.chunk.css",
+    "static/css/main.aa3d1ef2.chunk.css",
     "static/js/main.9147a8bf.chunk.js"
   ]
 }
