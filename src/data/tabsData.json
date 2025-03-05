@@ -1,0 +1,26 @@
+[
+    {
+        "id": "tab1",
+        "title": "Rakuten",
+        "content": "This is the content of Tab 1.",
+        "url": "https://item.rakuten.co.jp/kingram/ssh-2105015384133/"
+    },
+    {
+        "id": "tab2",
+        "title": "Yahoo",
+        "content": "This is the content of Tab 2.",
+        "url": "https://store.shopping.yahoo.co.jp/junglejungle/2000087251800034.html"
+    },
+    {
+        "id": "tab3",
+        "title": "Mercari",
+        "content": "This is the content of Tab 3.",
+        "url": "https://item.fril.jp/41e7a9b4a61fd7d18bcb72b792489917"
+    },
+    {
+        "id": "tab4",
+        "title": "Rakuma",
+        "content": "This is the content of Tab 4.",
+        "url": "https://jp.mercari.com/item/m50624420798"
+    }
+]

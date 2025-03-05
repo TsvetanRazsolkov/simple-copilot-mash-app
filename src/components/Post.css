@@ -1,0 +1,31 @@
+.post {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.post-thumbnail {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.post-content {
+    flex: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Number of lines to show */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-height: 4.5em; /* Adjust based on line height */
+    line-height: 1.5em; /* Adjust based on font size */
+}
+
+.post-content h2 {
+    margin: 0 0 10px;
+}
+
+.post-content p {
+    margin: 0 0 10px;
+}

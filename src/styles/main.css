@@ -1,0 +1,83 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav {
+    margin: 10px 0;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.post {
+    background: #ffffff;
+    margin: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.post h2 {
+    margin: 0 0 10px;
+}
+
+.post p {
+    line-height: 1.6;
+}
+
+.post .author {
+    font-size: 0.9em;
+    color: #777;
+}
+
+.App {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header, .footer {
+    flex-shrink: 0;
+}
+
+.content {
+    flex: 1;
+    margin-left: 220px; /* Adjust based on side menu width */
+    padding: 20px;
+    transition: margin-left 0.3s;
+}
+
+.side-menu.collapsed + .content {
+    margin-left: 80px; /* Adjust based on collapsed side menu width */
+}
